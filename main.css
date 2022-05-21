@@ -14,8 +14,8 @@ nav{
 ul{
   list-style-type: none;
   width: auto;
-  float: left;
-  
+  float: right;
+
   margin-top: 8px; 
 }
 li{
