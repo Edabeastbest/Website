@@ -7,6 +7,9 @@ body{
   font-family: 'Montserrat', sans-serif;
   background-color: #19b6ff;
 }
+img{
+  float: left;
+}
 nav{
   height: 50px;
   background-color: #ff8019;
